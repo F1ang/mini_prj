@@ -1,0 +1,6 @@
+/**:
+  ros__parameters:
+    dev: /dev/input/js0
+    publish_rate: 50.0
+    reconnect_interval: 1.0
+    frame_id: joy
